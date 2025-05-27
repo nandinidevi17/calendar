@@ -40,6 +40,17 @@ A dynamic, interactive event calendar built with React that allows users to mana
 - High contrast mode support
 - Focus management
 - Screen reader friendly notifications
+## 📸 Screenshots
+
+### 🔷 Full Calendar View with All Categories
+![Full Calendar]((https://github.com/nandinidevi17/calendar/blob/4e9101b9645de1c13ce336eef65447de25f27f1c/src/assets/calendar-full.png))
+
+### 🔵 Filtered by Category: Work
+![Work Category](https://github.com/nandinidevi17/calendar/blob/4e9101b9645de1c13ce336eef65447de25f27f1c/src/assets/calendar-work.png)
+
+### 🟢 Filtered by Category: Personal
+![Personal Category](https://github.com/nandinidevi17/calendar/blob/4e9101b9645de1c13ce336eef65447de25f27f1c/src/assets/calendar-personal.png)
+
 
 ### Keyboard Shortcuts
 - `Ctrl/⌘ + N`: Create new event
